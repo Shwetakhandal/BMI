@@ -1,9 +1,12 @@
 This BMI (Body Mass Index) Calculator app is a simple tool to help users calculate their BMI based on their weight and height inputs. BMI is a measure of body fat based on height and weight that applies to adult men and women. It's a useful indicator of overall health status.
+
 ==>Features
+
 1.Input fields for weight (in kilograms or pounds) and height (in centimeters or inches).
 2.Calculates BMI based on user inputs.
 3.Provides interpretation of the calculated BMI value, indicating whether the user is underweight, normal weight, overweight, or obese.
 4.Clean and intuitive user interface.
+
 ==>How to Use
 1.Enter your weight in the specified unit.
 2.Enter your height in the specified unit.
