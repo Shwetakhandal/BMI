@@ -11,9 +11,7 @@ This BMI (Body Mass Index) Calculator app is a simple tool to help users calcula
 
 The app will display your BMI value along with an interpretation of what that BMI range means.
 ==>Technologies Used
-HTML
-CSS
-JavaScript
+Python
 
 
 
